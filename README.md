@@ -77,6 +77,6 @@ You MUST implement a proper secrets management solution:
 Create ArgoCD `Application` manifest:
 Bonus: Create `ApplicationSet` for multi-region deployment (Spain + Mexico).
 
-### 5. CI/CD Pipeline Integration
+### 5. CI/CD Pipeline Integration (Optional)
 
 Create and add stages to `.gitlab-ci.yml`
